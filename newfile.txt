@@ -1,0 +1,6 @@
+#written by FileProperties
+#Tue Jun 11 22:47:17 GMT+09:00 2019
+month=4
+year=1999
+day=21
+key=2004
